@@ -1,0 +1,6 @@
+{
+  "name": "CFG Pipeline Simplifier",
+  "description": "Interactive Context-Free Grammar simplification laboratory removing unit, useless, and epsilon productions step-by-step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
